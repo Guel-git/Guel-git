@@ -3,8 +3,6 @@
 #### Skills & Stacks
 
 <img src="https://img.shields.io/badge/Swift-4776FB?&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-4776FB?&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-4776FB?&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4776FB?&logo=Slack&logoColor=white"/><br />
-<img src="https://img.shields.io/badge/React&nbsp;Native-4776FB?&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Python-4776FB?&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Illustrator-4776FB?&logo=Adobe Illustrator&logoColor=white"/> <br/>
-<img src="https://img.shields.io/badge/HTML-4776FB?&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-4776FB?&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-4776FB?&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/XD-4776FB?&logo=Adobe XD&logoColor=white"/> <img src="https://img.shields.io/badge/Django-4776FB?&logo=Django&logoColor=white"/> 
 
 #### Education & Experience
 <code>🏫</code>  Ewha Womans University, Contents Convergence / Computer Engineering (2018.03 ~ 2023.08)<br/>
