@@ -6,7 +6,7 @@
 
 #### Education & Experience
 <code>💻</code> Apple Developer Academy @POSTECH (2022.03 ~ 2022.12)<br/>
-<code>🦁</code> LikeLion 9th @EWHA (2021.03 ~ 2021.11)<br/>
+<code>🦁</code> LikeLion 9th (2021.03 ~ 2021.11)<br/>
 <code>💼</code> Teamblind Recruitment Business Team, Marketing & Operation Intern (2020.08 ~ 2021.02)
 <hr/>
 
