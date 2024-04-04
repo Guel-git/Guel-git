@@ -11,6 +11,4 @@
 <code>💼</code> Teamblind Recruitment Business Team, Marketing & Operation Intern (2020.08 ~ 2021.02)
 <hr/>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=eccyuna)](https://solved.ac/eccyuna)
-
 [![Guel-git's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Guel-git&count_private=true&hide_title=true&custom_title=Guel-git&nbsp;&bg_color=30,4776FB,648BF9&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
