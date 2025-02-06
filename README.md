@@ -8,7 +8,7 @@
 <code>🎓</code> Ewha Womans University, Contents Convergence & Computer Engineering (2018.03 ~ 2024.02)<br/>
 <code>💻</code> Apple Developer Academy @ POSTECH (2022.03 ~ 2022.12)<br/>
 <code>🦁</code> LikeLion 9th (2021.03 ~ 2021.11)<br/>
-<code>💼</code> Teamblind Recruitment Business Team, Marketing & Operation Intern (2020.08 ~ 2021.02)
+<code>💼</code> Teamblind Recruitment Business Team, Marketing & Operation Intern (2020.08 ~ 2021.02)<br/>
 <code>💼</code> Deloitte Consulting HR Transformation, Consulting Intern (2024.10 ~ 2025.01)
 <hr/>
 
